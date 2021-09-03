@@ -1,0 +1,3 @@
+[submodule "python_app_three"]
+	path = python_app_three
+	url = https://github.com/chiatt97/FlaskWebApp.git
